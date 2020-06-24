@@ -6,11 +6,11 @@ Smart brain is a single page application that allows users to submit a link to a
 
 ## Register / Sign In Capabilities
 
-![Smart Brain Register/ SignUp](src/Assets/registration.gif)
+![Smart Brain Register/ SignUp](https://i.giphy.com/media/lopwo7fWpG2zJtLG4E/giphy.webp)
 
 ## Face Detection (
 
-![Smart Brain Single Face Detection](src/Assets/facerecognition.gif)
+![Smart Brain Single Face Detection](https://media0.giphy.com/media/Vdn5cGIKRAh3v8VzLV/giphy.gif)
 
 
 ### Setup
