@@ -6,11 +6,11 @@ Smart brain is a single page application that allows users to submit a link to a
 
 ## Register / Sign In Capabilities
 
-![Smart Brain Register/ SignUp](/Assets/registration.gif)
+![Smart Brain Register/ SignUp](src/Assets/registration.gif)
 
 ## Face Detection (
 
-![Smart Brain Single Face Detection](https://github.com/gabecadiz/smart-brain/blob/master/assets/smart-brain-login-reg.gif?raw=true)
+![Smart Brain Single Face Detection](src/Assets/facerecognition.gif)
 
 
 ### Setup
