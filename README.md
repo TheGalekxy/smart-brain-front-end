@@ -6,12 +6,12 @@ Smart brain is a single page application that allows users to submit a link to a
 
 ## Register / Sign In Capabilities
 
-![Smart Brain Register/ SignUp](/assets/smart-brain-login-reg.gif)
+![Smart Brain Register/ SignUp](/Assets/registration.gif)
 
 ## Face Detection (
 
-![Smart Brain Single Face Detection](/assets/smart-brain-single-face.gif)
-![Smart Brain Multiple Face Detection](/assets/smart-brain-multiple-faces.gif)
+![Smart Brain Single Face Detection](/Assets/facerecognition.gif)
+
 
 ### Setup
 
@@ -24,8 +24,6 @@ Smart Brain is deployed via Heroku and can be found [here]https://smart-brain-ga
 - React-Redux
 - React-tilt
 - Redux
-- Redux-logger
-- Redux-thunk
 - tachyons
 
 ### Back End Dependencies
