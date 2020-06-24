@@ -10,7 +10,7 @@ Smart brain is a single page application that allows users to submit a link to a
 
 ## Face Detection (
 
-![Smart Brain Single Face Detection](/Assets/facerecognition.gif)
+![Smart Brain Single Face Detection](https://github.com/gabecadiz/smart-brain/blob/master/assets/smart-brain-login-reg.gif?raw=true)
 
 
 ### Setup
