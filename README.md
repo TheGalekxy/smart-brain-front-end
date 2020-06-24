@@ -11,7 +11,6 @@ Smart brain is a single page application that allows users to submit a link to a
 ## Face Detection (
 
 ![Smart Brain Single Face Detection](https://media0.giphy.com/media/Vdn5cGIKRAh3v8VzLV/giphy.gif)
-![Smart Brain Single Face Detection](../src/Assets/facerecognition.gif)
 
 
 ### Setup
